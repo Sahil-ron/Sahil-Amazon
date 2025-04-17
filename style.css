@@ -3,6 +3,10 @@
     font-family: Arial;
     border: border-box;
 }
+header{
+    position: sticky;
+    top: 0;
+}
 
 .navbar {
     height: 60px;
